@@ -5,7 +5,6 @@
     list-style: none;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-
 body{
     background-color: rgb(132, 131, 131);
     display: block;
@@ -96,17 +95,17 @@ hr{
     padding: 1rem;
 }
 .skill-title{
-    font-size: 1.8rem;
+    font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 1px;
     color: #f7f7f7ec;
-    padding-top: 0rem;
+    padding: 1rem 0.5rem 1rem 0.5rem;
 }
 .skill-name{
     font-size: 0.65rem;
     text-align: left;
-    font-weight: 200;
+    font-weight: 0.65rem;
     padding-bottom: 0.5rem;
     color: white;
 }
