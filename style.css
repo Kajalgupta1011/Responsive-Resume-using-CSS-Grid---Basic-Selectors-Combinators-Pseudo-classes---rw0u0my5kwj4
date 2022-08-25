@@ -94,7 +94,16 @@ hr{
 .skill-content{
     padding: 1rem;
 }
-.skill-title{
+.skills{
+    font-size: 0.75rem;
+    text-align: center;
+    text-transform: uppercase;
+    /* letter-spacing: 1px; */
+    color: #f7f7f7ec;
+    padding: 1rem 0.5rem 1rem 0.5rem;
+}
+
+.skills-title{
     font-size: 0.75rem;
     text-align: center;
     text-transform: uppercase;
