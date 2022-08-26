@@ -168,7 +168,6 @@ hr{
 }
 .education-title{
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
 }
 .edu{
     border-left: 1px solid #ccc;
