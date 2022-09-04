@@ -131,13 +131,12 @@ hr{
     border-radius: 3px;
     background-color: white;
 }
-.right-section{
-    width: 90%;
-    grid-area: 1/2/3/4;
-
+.right-section {
     grid-column: span 1 / span 2;
-    background-color: aliceblue;
-    grid-template-columns: 300px 1000px;
+    font-size: large;
+    font-weight: 500;
+    background-color: azure;
+    color: rgb(0, 102, 133);
 }
 
 .right-main-content{
