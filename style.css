@@ -132,6 +132,7 @@ hr{
     background-color: white;
 }
 .right-section {
+	width: 90%;
     grid-column: span 1 / span 2;
     font-size: large;
     font-weight: 500;
